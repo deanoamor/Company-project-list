@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompanyProjectList</string>
+    <string name="confirm_delete">confirm delete</string>
+    <string name="delete_confirmation_message">Yakin mendelete data ini?</string>
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+</resources>
